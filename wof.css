@@ -1,0 +1,60 @@
+div.main{
+    width: 80%;
+    display: flex;
+    align-items: center ;
+   margin: 0 auto;
+}
+
+div.main2{
+    width: 100%;
+}
+
+div.main3{
+    width: 98%;
+    padding-left: 45px;
+  padding-bottom: 15px;
+  margin: 35px 0 50px 0;
+}
+
+
+div.pic{
+    display: flex;
+    background-color: purple
+    ;
+  margin: 10px;
+  padding: 40px;
+  font-size: 30px;
+}
+
+div.item{
+  width: 450px;
+  height: 10px;
+  margin: 0 5px;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.container{
+    font-family: 'Poppins', sans-serif;
+}
+.navigation{
+  
+    background: #222;
+    padding: 0 15px;
+}
+.logo{
+    font-size: 20px;
+    padding: 7.5px 10px 7.5px 0;}
+
+    a{
+        color: white;
+    text-decoration: none;
+    }
+.subitem{
+    align-items:flex-end;
+    display: inline-table;
+    margin-right: 25px;
+    font-size: larger;
+}
